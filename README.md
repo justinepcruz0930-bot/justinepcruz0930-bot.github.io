@@ -1,20 +1,13 @@
-# Justine P. Cruz — AIE100 Personal Portfolio
+# AIE100 — Justine P. Cruz portfolio (updated)
 
-A minimalist, responsive student portfolio for GitHub Pages.
+Upload `index.html`, `style.css`, `script.js` and the entire `projects` folder to the **root** of your GitHub Pages repository. Replace existing files when prompted. Do not upload only the ZIP.
 
-## Preview locally
-Open `index.html` in your browser.
+## Projects
+- College Algebra E-Portfolio (`projects/math165-eportfolio.pdf`)
+- SDG 11 Community Photo Essay (`projects/sdg11-community-photo-essay.pdf`)
+- OFW Investigation Report (`projects/ofw-investigation-report.pdf`)
 
-## Publish
-1. Create a public GitHub repository named `YOUR-USERNAME.github.io`.
-2. Upload `index.html`, `style.css`, and `script.js` to the root of the repository.
-3. Open Settings > Pages. Set Source to **Deploy from a branch**, Branch to **main**, and Folder to **/(root)**. Save.
-4. Visit `https://YOUR-USERNAME.github.io` after deployment finishes.
-
-## Before submitting
-- Replace the placeholder email and GitHub profile in `index.html`.
-- Review the About Me and Reflections sections and edit them to match your actual experiences.
-- Add verified project screenshots or files as you finish them.
-- Check the website on mobile and desktop.
-
-No framework or paid hosting is required.
+## Before publishing
+- Review About Me and Reflections for accuracy.
+- Replace the placeholder contact email and GitHub link in `index.html`.
+- IMPORTANT: The SDG photo essay includes a personal photo; the OFW report includes an interview call screenshot and a visible username. Public GitHub Pages files are accessible to anyone. Obtain permission from the interviewee to publish the screenshot or redact that page before uploading.
